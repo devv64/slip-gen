@@ -390,6 +390,7 @@ const PlayerForm = ({ onSubmit, onCancel }) => {
               <option value="PTS+AST">PTS+AST</option>
               <option value="REB+AST">REB+AST</option>
               <option value="PTS+REB+AST">PTS+REB+AST</option>
+              <option value="Made Threes">Made Threes</option>
             </select>
           </div>
 
